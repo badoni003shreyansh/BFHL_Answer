@@ -56,4 +56,4 @@ Ensure you have the following installed on your system:
 
 ----
 📥 **Direct JAR Download (Raw Link):**  
-https://github.com/badoni003shreyansh/BHFL_Answer/releases/download/v1.0.0/bfhl-webhook-service-1.0.0.jar
+https://github.com/badoni003shreyansh/BFHL_Answer/blob/main/target/bfhl-qualifier1-1.0.0.jar
